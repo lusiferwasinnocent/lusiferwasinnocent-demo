@@ -1,4 +1,4 @@
 # lusiferwasinnocent-demo
-this is my first git respository
+This is my first Git Respository
 <br>
-author:- Ravi shankar kunkekar
+Author- Ravi Kunkekar
